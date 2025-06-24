@@ -1,0 +1,1 @@
+# aws_vpc_public_subnet_ecs_fargate_awsvpc_nginx_terraform
